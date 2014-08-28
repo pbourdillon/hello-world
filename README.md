@@ -1,4 +1,6 @@
 hello-world
 ===========
 
-just another repository
+just another repository. 
+
+The quick brown fox
